@@ -1,0 +1,6 @@
+1. habilitar el +
+2 aplicar estilos
+
+3. -, * , /
+
+//typescript
